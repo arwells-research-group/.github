@@ -6,7 +6,7 @@ coherence limits, and correlation structure across quantum, atomic, and macrosco
 systems, with explicit falsifiability.
 
 ## Canonical reference (citable)
-- **DFT Core Theory Hub (v1.0.0, archived)**  
+- **DFT Core Theory Hub (v1.0.0, archived release)**  
   https://github.com/arwells-research-group/dft-core-theory  
   https://doi.org/10.5281/zenodo.18027076
 
@@ -34,3 +34,5 @@ pipelines across:
 - vacuum geometry and Casimir/MEMS modeling
 
 > Start with **dft-core-theory**. The pinned repositories are the primary entry points.
+
+These repositories emphasize constraint discovery and falsifiable structure, not comprehensive simulation toolkits.
