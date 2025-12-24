@@ -17,6 +17,7 @@ systems, with explicit falsifiability.
 - **satz-lifetime-diagnostics** — β-decay / EC lifetime scaling with frozen coefficients and residual isolation
 - **dft-astro-nonlocal-kinematics** — SPARC rotation-curve pipeline with fixed nonlocal kernels and holdout gates
 - **hom-phase-diffusion** — Hong–Ou–Mandel bunching from deterministic phase diffusion
+- **dual-frame-information-theory** — formal information-theoretic constraints and compression complementarity
 
 ## Research principles
 - **Geometry-first explanations**, minimal free parameters
@@ -32,6 +33,8 @@ pipelines across:
 - quantum optics and coherence
 - astrophysical kinematics
 - vacuum geometry and Casimir/MEMS modeling
+
+Formal information-theoretic work (e.g., compression and representation trade-offs) is included where it provides cross-domain constraints or bridges to machine learning and cognitive systems.
 
 > Start with **dft-core-theory**. The pinned repositories are the primary entry points.
 
