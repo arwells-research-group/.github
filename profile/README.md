@@ -12,6 +12,7 @@ systems, with explicit falsifiability.
 
 ## Pinned highlights
 - **dft-core-theory** — canonical foundations, structure, and verification standards
+- **closure-core-lamb-shift** — closure-first reinterpretation of the hydrogen Lamb shift as a relative phase-closure diagnostic
 - **gor-kernel-model** — coherence aperture ($L \approx 3.8\,a_0$) verification and shell-structure gates
 - **gor-caf** — NIST first ionization energies and $+3/-4$ GOR residual structure
 - **satz-lifetime-diagnostics** — β-decay / EC lifetime scaling with frozen coefficients and residual isolation
