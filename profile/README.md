@@ -52,6 +52,15 @@ faithful representation across:
 structural adequacy within reduced models and provides refusal conditions when
 those boundaries are exceeded.
 
+For a focused methodology backgrounder and entry points (including motivating examples and
+the formal forcing schema), see:
+- **[dft-core-theory/sigma2-framework/](https://github.com/arwells-research-group/dft-core-theory/tree/main/sigma2-framework)** — Σ₂ Framework (backgrounder + docs)
+
+Direct links within that folder:
+- **[motivating-example-discrete.md](https://github.com/arwells-research-group/dft-core-theory/blob/main/sigma2-framework/motivating-example-discrete.md)** — discrete / combinatorial motivating example
+- **[motivating-example-continuous.md](https://github.com/arwells-research-group/dft-core-theory/blob/main/sigma2-framework/motivating-example-continuous.md)** — continuous / geometric motivating example
+- **[structural-extremum-forcing.md](https://github.com/arwells-research-group/dft-core-theory/blob/main/sigma2-framework/structural-extremum-forcing.md)** — Structural Extremum Forcing (Σ₂) theorem
+
 ### Where DFT Reproduces vs. Competes
 
 **DFT reproduces** standard quantum mechanics and general relativity in their
