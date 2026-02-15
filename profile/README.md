@@ -5,6 +5,14 @@ parameter-light, geometry-first framework for understanding quantization,
 coherence limits, and correlation structure across quantum, atomic, and
 macroscopic systems.
 
+> **Naming note:** The framework is in the process of transitioning to
+> **Sigma-order (Σ-order) theory**, or **DFT-Sigma**, to avoid confusion with
+> Density Functional Theory (DFT). The underlying geometric and structural
+> program remains continuous. Existing repositories and publications may retain
+> the Dual-Frame naming for archival and citation stability. The Sigma-order
+> terminology reflects the layered structural hierarchy (Σ₁, Σ₂, Σ₃, …)
+> governing representational and admissibility regimes.
+
 DFT proposes that many discrete and correlation-driven physical phenomena arise
 from **topological constraints on motion** when a universal scalar progression is
 projected into complementary Temporal (T) and Spatial (S) frames. The framework
@@ -36,10 +44,24 @@ related projections of scalar progression. In practice, most theoretical models
 preserve spatial structure explicitly while collapsing reciprocal temporal
 structure into reduced, state-based descriptions.
 
+This motion-first structural program includes a representational reconstruction
+of quantum kinematics from distinguishability relations on motion histories,
+establishing the algebraic conditions under which Hilbert-space structure
+emerges canonically. See:
+
+- **motion-first-quantum-kinematics** — representational reconstruction of
+  Hilbert-space kinematics from motion-history distinguishability (Zenodo DOI: 10.5281/zenodo.18646222)
+ 
 ### Structural Adequacy and Σ₂
 
 DFT examines the consequences of this projection asymmetry and identifies
 **structural conditions under which such reductions cease to remain sufficient**.
+
+These conditions form a layered structural hierarchy referred to as
+**Sigma-order (Σ-order)**, which classifies representational regimes according
+to closure stability and admissibility constraints. Different Σ-orders mark
+distinct boundaries where additional structural information becomes necessary
+for faithful representation.
 
 One such condition is denoted **Σ₂** (second-order constraint geometry), which
 marks the boundary where discarded temporal structure becomes necessary for
@@ -81,7 +103,8 @@ in different physical contexts:
 
 **Foundations and Core Theory:**
 - ✅ **dft-core-theory** — canonical foundations, structural framework, verification standards
-
+- ✅ **motion-first-quantum-kinematics** — representational reconstruction of Hilbert-space structure from motion-history distinguishability
+ 
 **Atomic and Nuclear Physics:**
 - ✅ **gor-kernel-model** — coherence aperture verification and shell-structure gating
 - ✅ **gor-caf** — ionization-energy residual structure under fixed reduction constraints
