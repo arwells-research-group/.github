@@ -1,37 +1,39 @@
 # Dual-Frame Research Group
 
-The Dual-Frame Research Group develops **Dual-Frame Theory (DFT)** — a
+The Dual-Frame Research Group develops **Sigma-Order theory (Σ-Order, ΣO)** — a
 parameter-light, geometry-first framework for understanding quantization,
 coherence limits, and correlation structure across quantum, atomic, and
 macroscopic systems.
 
-> **Naming note:** The framework is in the process of transitioning to
-> **Sigma-order (Σ-order) theory**, or **DFT-Sigma**, to avoid confusion with
-> Density Functional Theory (DFT). The underlying geometric and structural
-> program remains continuous. Existing repositories and publications may retain
-> the Dual-Frame naming for archival and citation stability. The Sigma-order
-> terminology reflects the layered structural hierarchy (Σ₁, Σ₂, Σ₃, …)
-> governing representational and admissibility regimes.
+> **Naming note:** This research program historically used the name **Dual-Frame Theory (DFT)**.
+> Because “DFT” is widely associated with Density Functional Theory, the framework is now indexed
+> under **Sigma-Order (Σ-Order, ΣO)** terminology.  
+>  
+> The term **Dual-Frame** remains valid when referring specifically to the dual projection
+> structure (Temporal / Spatial frames). Existing repositories and publications retain their
+> original naming for archival and citation stability. The underlying geometric and structural
+> program remains continuous.
 
-DFT proposes that many discrete and correlation-driven physical phenomena arise
-from **topological constraints on motion** when a universal scalar progression is
-projected into complementary Temporal (T) and Spatial (S) frames. The framework
-emphasizes explicit falsifiability and limits-first validation.
+Σ-Order theory proposes that many discrete and correlation-driven physical phenomena arise
+from **topological and admissibility constraints on motion** when a universal scalar progression
+is projected into complementary Temporal (T) and Spatial (S) frames. The framework emphasizes
+explicit falsifiability, frozen-parameter validation, and constraint-first structural analysis.
 
 ---
 
-> **Repository status:** Early-stage research program maintained by a non-dedicated researcher. 
-> Not all listed repositories are public yet. See status indicators below.
+> **Repository status:** Early-stage research program maintained by a non-dedicated researcher.  
+> Not all listed repositories are public yet. Status indicators reflect structural maturity.
 
 ---
 
 ## Canonical Reference (Citable)
 
-**DFT Core Theory Hub (v1.0.0, archived release)**  
-- Repository: https://github.com/arwells-research-group/dft-core-theory  
-- DOI: https://doi.org/10.5281/zenodo.18027076
+**Σ-Order Core Theory Hub (archived release)**  
+- Repository: https://github.com/arwells-research-group/sigma-order-core  
+- DOI: https://doi.org/10.5281/zenodo.18027076  
 
-**Start here** for foundational concepts, verification standards, and reading guides.
+**Start here** for foundational concepts, admissibility structure, verification standards,
+and recommended reading order.
 
 ---
 
@@ -39,172 +41,219 @@ emphasizes explicit falsifiability and limits-first validation.
 
 ### Motion-First, Geometry-Based View
 
-DFT builds on a motion-first perspective in which space and time are reciprocally
-related projections of scalar progression. In practice, most theoretical models
-preserve spatial structure explicitly while collapsing reciprocal temporal
-structure into reduced, state-based descriptions.
+Σ-Order theory builds on a motion-first perspective in which space and time are reciprocally
+related projections of scalar progression.
 
-This motion-first structural program includes a representational reconstruction
-of quantum kinematics from distinguishability relations on motion histories,
-establishing the algebraic conditions under which Hilbert-space structure
-emerges canonically. See:
+Most conventional theoretical models preserve spatial structure explicitly while collapsing
+reciprocal temporal structure into reduced state-based representations. Σ-Order theory identifies
+the structural boundaries where such reductions remain faithful — and where they fail.
 
-- **motion-first-quantum-kinematics** — representational reconstruction of
-  Hilbert-space kinematics from motion-history distinguishability (Zenodo DOI: 10.5281/zenodo.18646222)
- 
-### Structural Adequacy and Σ₂
+This structural program includes a representational reconstruction of quantum kinematics from
+distinguishability relations on motion histories, establishing the algebraic conditions under
+which Hilbert-space structure emerges canonically:
 
-DFT examines the consequences of this projection asymmetry and identifies
-**structural conditions under which such reductions cease to remain sufficient**.
+- ✅ **motion-first-quantum-kinematics**  
+  https://github.com/arwells-research/motion-first-quantum-kinematics  
+  Representational reconstruction of Hilbert-space kinematics from motion-history distinguishability  
+  DOI: https://doi.org/10.5281/zenodo.18646222
 
-These conditions form a layered structural hierarchy referred to as
-**Sigma-order (Σ-order)**, which classifies representational regimes according
-to closure stability and admissibility constraints. Different Σ-orders mark
-distinct boundaries where additional structural information becomes necessary
-for faithful representation.
+---
 
-One such condition is denoted **Σ₂** (second-order constraint geometry), which
-marks the boundary where discarded temporal structure becomes necessary for
-faithful representation across:
-- Continuation (cross-window persistence)
-- Intervention (protocol changes)
-- Re-projection (alternate observables)
+### Structural Adequacy and Σ-Order Hierarchy
 
-**Σ₂ does not introduce new dynamics or ontology**; it identifies boundaries of
-structural adequacy within reduced models and provides refusal conditions when
-those boundaries are exceeded.
+Σ-Order theory identifies layered structural regimes governing representational adequacy.
 
-For a focused methodology backgrounder and entry points (including motivating examples and
-the formal forcing schema), see:
-- **[dft-core-theory/sigma2-framework/](https://github.com/arwells-research-group/dft-core-theory/tree/main/sigma2-framework)** — Σ₂ Framework (backgrounder + docs)
+These regimes form the **Sigma-Order hierarchy (Σ₁, Σ₂, Σ₃, …)**, which classifies admissibility
+according to closure stability and projection consistency.
 
-Direct links within that folder:
-- **[motivating-example-discrete.md](https://github.com/arwells-research-group/dft-core-theory/blob/main/sigma2-framework/motivating-example-discrete.md)** — discrete / combinatorial motivating example
-- **[motivating-example-continuous.md](https://github.com/arwells-research-group/dft-core-theory/blob/main/sigma2-framework/motivating-example-continuous.md)** — continuous / geometric motivating example
-- **[structural-extremum-forcing.md](https://github.com/arwells-research-group/dft-core-theory/blob/main/sigma2-framework/structural-extremum-forcing.md)** — Structural Extremum Forcing (Σ₂) theorem
+One such regime, **Σ₂ (second-order constraint geometry)**, marks the boundary where discarded
+temporal structure becomes necessary for faithful representation across:
 
-### Where DFT Reproduces vs. Competes
+- continuation (cross-window persistence)
+- intervention (protocol changes)
+- re-projection (alternate observables)
 
-**DFT reproduces** standard quantum mechanics and general relativity in their
-validated, maximally-constrained regimes (coherence envelopes, uncertainty
-relations, weak-field gravity).
+Σ₂ does not introduce new dynamics; it identifies structural adequacy limits of reduced models.
 
-**DFT competes** by predicting explicit geometric admissibility boundaries and
-cross-domain structural invariants that standard formalisms treat as model
-choice, effective parameters, or inference artifacts.
+Framework documentation:
+
+- sigma-order-core Σ₂ framework  
+  https://github.com/arwells-research-group/sigma-order-core/tree/main/sigma2-framework  
+
+Direct entry points:
+
+- motivating example (discrete)  
+  https://github.com/arwells-research-group/sigma-order-core/blob/main/sigma2-framework/motivating-example-discrete.md  
+
+- motivating example (continuous)  
+  https://github.com/arwells-research-group/sigma-order-core/blob/main/sigma2-framework/motivating-example-continuous.md  
+
+- structural extremum forcing theorem  
+  https://github.com/arwells-research-group/sigma-order-core/blob/main/sigma2-framework/structural-extremum-forcing.md  
+
+---
+
+### Where Σ-Order Theory Reproduces vs. Competes
+
+**Σ-Order reproduces standard QM and GR** in validated regimes:
+
+- coherence envelopes
+- uncertainty relations
+- weak-field gravity
+- stationary spectral relationships
+
+**Σ-Order competes at admissibility boundaries**, predicting structural refusal where standard
+models rely on effective parameters or inference assumptions.
 
 ---
 
 ## Representative Research Threads
 
-The following repositories illustrate how DFT is applied to identify
-structural constraints, regime transitions, and verification boundaries
-in different physical contexts:
+The following repositories illustrate how Σ-Order theory identifies constraint structure,
+regime boundaries, and admissibility limits.
 
-**Foundations and Core Theory:**
-- ✅ **dft-core-theory** — canonical foundations, structural framework, verification standards
-- ✅ **motion-first-quantum-kinematics** — representational reconstruction of Hilbert-space structure from motion-history distinguishability
- 
-**Atomic and Nuclear Physics:**
-- ✅ **gor-kernel-model** — coherence aperture verification and shell-structure gating
-- ✅ **gor-caf** — ionization-energy residual structure under fixed reduction constraints
-- ✅ **satz-lifetime-diagnostics** — lifetime scaling and reduction adequacy tests in nuclear decay
+---
 
-**Astrophysics:**
-- ✅ **dft-astro-nonlocal-kinematics** — nonlocal kernel constraints in galactic rotation regimes
+### Foundations and Core Theory
 
-**Quantum Optics and Coherence:**
-- ✅ **hom-phase-diffusion** — coherence breakdown and recovery across optical regimes
-- ✅ **dft-radiation** — constraint-complete classification framework (C1–C5) for radiation phenomenology
+- ✅ **sigma-order-core**  
+  https://github.com/arwells-research-group/sigma-order-core  
+  Canonical theoretical foundation and verification standards
 
-**Information Theory and Σ₂:**
-- ✅ **dual-frame-information-theory** — representation limits and compression complementarity
-- ✅ **unfaithful-cut-foundations** — intervention faithfulness and Σ₂ diagnostics
+- ✅ **motion-first-quantum-kinematics**  
+  https://github.com/arwells-research/motion-first-quantum-kinematics  
+  Hilbert-space reconstruction from motion distinguishability
 
-**Status legend:**
-- ✅ Public repository
-- 🔄 Public, active development
-- 🔒 Scoping stage, not yet public
+---
 
-See **dft-core-theory** for complete repository listing and descriptions.
+### Atomic and Nuclear Physics
+
+- ✅ **gor-kernel-model**  
+  https://github.com/arwells-research/gor-kernel-model  
+  Coherence aperture and structural gating diagnostics
+
+- ✅ **gor-caf**  
+  https://github.com/arwells-research/gor-caf  
+  Ionization-energy residual structure validation
+
+- ✅ **satz-lifetime-diagnostics**  
+  https://github.com/arwells-research/satz-lifetime-diagnostics  
+  Lifetime scaling and admissibility diagnostics
+
+---
+
+### Astrophysics
+
+- ✅ **dft-astro-nonlocal-kinematics**  
+  https://github.com/arwells-research/dft-astro-nonlocal-kinematics  
+  Nonlocal kernel admissibility constraints in galactic rotation regimes
+
+---
+
+### Quantum Optics and Coherence
+
+- ✅ **hom-phase-diffusion**  
+  https://github.com/arwells-research/hom-phase-diffusion  
+  Coherence breakdown and recovery diagnostics
+
+- ✅ **dft-radiation**  
+  https://github.com/arwells-research/dft-radiation  
+  Constraint-complete classification framework (C1–C5)
+
+- ✅ **single-emitter-antibunching**  
+  https://github.com/arwells-research/single-emitter-antibunching  
+  Exclusivity topology validation
+
+---
+
+### Information Theory and Σ₂ Diagnostics
+
+- ✅ **dual-frame-information-theory**  
+  https://github.com/arwells-research/dual-frame-information-theory  
+  Representation limits and admissibility structure
+
+- ✅ **unfaithful-cut-foundations**  
+  https://github.com/arwells-research/unfaithful-cut-foundations  
+  Intervention admissibility and structural adequacy diagnostics
 
 ---
 
 ## Research Principles
 
-**Geometry-first explanations** with minimal free parameters  
-- Topological constraints on motion generate observed structure
-- No hidden variables or new dynamical postulates at the foundational level
+**Geometry-first explanations**
 
-**Limits-first practice**  
-- Identify where reductions remain faithful and where they fail
-- Explicit admissibility conditions and refusal logic (BOUNDARY verdicts)
+- Topological and admissibility constraints determine observable structure
+- No hidden variables or arbitrary free parameters
 
-**Verification-first methodology**  
-- Public datasets (NIST, ENSDF, SPARC, OpenNeuro, etc.)
-- Frozen parameters fixed prior to evaluation
-- Deterministic validation with explicit falsification gates
+**Limits-first methodology**
 
-**Reproducibility**  
-- End-to-end scripts and rerunnable pipelines
-- Deterministic seeds and documented parameter choices
+- Identify admissibility boundaries explicitly
+- Provide refusal logic where reductions fail
 
-**Archival releases**  
-- Stable citations anchored to tagged versions (Zenodo DOI)
-- Major revisions tracked as versioned theoretical events
+**Verification-first practice**
+
+- Public datasets
+- Frozen parameters
+- Explicit falsification criteria
+
+**Reproducibility**
+
+- Fully rerunnable pipelines
+- Deterministic validation
+
+**Archival stability**
+
+- Zenodo-archived releases
+- Versioned theoretical lineage
 
 ---
 
 ## Scope and Regimes
 
-This organization contains theory notes, reference implementations, and
-validation pipelines spanning multiple **physical regimes**:
+This organization spans multiple empirical and theoretical domains:
 
-- Atomic and structural physics (ionization energies, shell structure)
-- Nuclear decay and lifetime diagnostics (β-decay, phase-space scaling)
-- Quantum optics and coherence phenomena (interference, correlations, antibunching)
-- Astrophysical kinematics (rotation curves, nonlocal geometry)
-- Vacuum geometry and Casimir/MEMS modeling
-- Bell-type correlations and quantum foundations
-- Radiation phenomenology (phase evolution, decoherence)
+- atomic physics
+- nuclear decay
+- quantum optics
+- astrophysical kinematics
+- vacuum geometry
+- quantum foundations
+- radiation phenomenology
+- admissibility diagnostics
 
-Formal information-theoretic work (compression and representation trade-offs)
-is included where it clarifies structural limits or provides cross-regime
-constraints, including connections to machine learning, reinforcement learning,
-and organizational dynamics.
-
-**These repositories emphasize constraint discovery and falsifiable structure**,
-not comprehensive simulation toolkits or domain-specific modeling frameworks.
+These repositories emphasize **constraint discovery and falsifiable structure**,
+not phenomenological curve fitting or simulation-first modeling.
 
 ---
 
 ## Getting Started
 
-**New to DFT?**
+**New readers**
 
-1. Read **dft-core-theory** Section 2: "What Dual-Frame Theory Is—and Is Not"
-2. Follow the recommended reading order in **dft-core-theory** Section 3.3
-3. Explore domain-specific validation repositories for concrete applications
+1. Start with sigma-order-core  
+   https://github.com/arwells-research-group/sigma-order-core  
 
-**Researchers:**
+2. Follow recommended reading order
 
-- See **VERIFICATION_PRINCIPLES.md** in dft-core-theory for falsification protocols
-- Challenge Log and Binding Atlas in dft-radiation demonstrate completeness methodology
-- All empirical repos use frozen parameters and public datasets
+3. Explore validation repositories
 
-**Practitioners:**
+**Researchers**
 
-- **intervention-faithfulness** tool (pip installable) implements Σ₂ diagnostics
-- Does not require DFT knowledge; operationalizes admissibility testing
+See verification standards in sigma-order-core.
+
+**Practitioners**
+
+Σ₂ admissibility diagnostics are available as standalone tools.
 
 ---
 
 ## Where to Find More
 
-**Primary documentation:** dft-core-theory repository  
-**Pinned repositories:** Entry points for each research thread  
-**Verification standards:** VERIFICATION_PRINCIPLES.md in dft-core-theory
+**Primary documentation:** sigma-order-core  
+**Pinned repositories:** organization main page  
+**Verification standards:** sigma-order-core VERIFICATION_PRINCIPLES.md  
 
-> **This is an early-stage research program.**  
-> Documentation reflects ongoing work. Not all repositories are public yet.  
-> Completeness claims are falsifiable and under active stress-testing.
+---
+
+> This is an early-stage research program.  
+> Structural completeness claims remain falsifiable and under active stress-testing.
