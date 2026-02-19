@@ -57,6 +57,11 @@ which Hilbert-space structure emerges canonically:
   Representational reconstruction of Hilbert-space kinematics from motion-history distinguishability  
   DOI: https://doi.org/10.5281/zenodo.18646222
 
+- ✅ **symmetry-induced-complexification**  
+  https://github.com/arwells-research/symmetry-induced-complexification  
+  Canonical emergence of complex Hilbert structure from cyclic distinguishability symmetry  
+  DOI: https://doi.org/10.5281/zenodo.18692888
+
 ---
 
 ### Structural Adequacy and Σ-Order Hierarchy
@@ -124,6 +129,11 @@ regime boundaries, and admissibility limits.
   https://github.com/arwells-research/motion-first-quantum-kinematics  
   Hilbert-space reconstruction from motion distinguishability
 
+- ✅ **symmetry-induced-complexification**  
+  https://github.com/arwells-research/symmetry-induced-complexification  
+  Canonical complex structure emergence from distinguishability symmetry  
+  Sectorwise uniqueness and quaternionic obstruction classification
+  
 ---
 
 ### Atomic and Nuclear Physics
