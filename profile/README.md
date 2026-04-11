@@ -22,28 +22,6 @@ These are not unrelated theories. They are different layers of one developmental
 
 ---
 
-## Naming and Lineage
-
-This research program historically used the name **Dual-Frame Theory (DFT)**.
-
-Because “DFT” is widely associated with *density functional theory*, the public-facing
-name of the reduced projection branch is now **Σ-Order theory (ΣO)**.
-
-However, the broader research program is not exhausted by ΣO.
-
-### Current terminology
-
-- **Reciprocal System lineage** — deepest ontological origin of the program
-- **Compact-fiber / carrier reconstruction** — deepest current reconstruction line
-- **Σ-Order theory (ΣO)** — post-projection / reduced projection architecture
-- **Dual-Frame** — retained where specifically referring to T/S projection structure
-- **Σ₂** — admissibility/refusal methodology operating on projected representation
-
-This is a lineage clarification, not a break in repository history. Older repositories or
-documents using “DFT” belong to the same research program unless explicitly deprecated.
-
----
-
 ## Start Here
 
 The main entry point for the research program is:
@@ -63,166 +41,61 @@ Start there for:
 
 ---
 
-## Layered Program Structure
+## Naming and Lineage
 
-### 1. Origin Layer — Reciprocal System Lineage
+This research program historically used the name **Dual-Frame Theory (DFT)**.
 
-The deepest starting point of the program is the motion-first insight associated with
-Larson’s **Reciprocal System of Theory**:
+Because “DFT” is widely associated with *density functional theory*, the public-facing
+name of the reduced projection branch is now **Σ-Order theory (ΣO)**.
 
-- motion is primary,
-- space and time are reciprocal aspects of motion,
-- stable physical structure depends on admissibility and closure,
-- projected observables are not ontologically primitive.
+However, the broader research program is not exhausted by ΣO.
 
-The present work does **not** claim to have wholly superseded the Reciprocal System.
-It aims to reconstruct and extend it using more explicit topological, geometric,
-projective, and empirical machinery.
+### Current terminology
 
-### 2. Carrier Reconstruction Layer — Compact Fiber
-
-The compact-fiber / local admissibility carrier work is currently the program’s
-deepest stable accomplishment and its main theoretical center of gravity.
-
-This branch seeks to recover a deeper local admissibility structure closer to the
-pre-projection / natural-reference level than the older ΣO branch can provide.
-
-This layer is especially important where reduced post-projection structure appears
-insufficient to generate mechanism on its own, including:
-
-- atomic screening structure,
-- effective quantum structure,
-- weak-field gravitational structure,
-- galactic rotation behavior,
-- and other domains where local admissibility content matters.
-
-### 3. Projection Architecture Layer — Σ-Order / Dual-Frame
-
-Σ-Order theory (ΣO) is the **post-projection** or **reduced projection** layer of the program.
-
-It preserves structural residue beyond standard QM and makes admissibility boundaries
-visible, but relative to the deeper carrier level it is **degenerate**: it does not
-retain the full local admissibility structure needed for complete mechanism.
-
-Its stable architectural elements include:
-
-- scalar progression / displacement from unit progression
-- Temporal / Spatial (T/S) dual-frame structure
-- winding sectors and topological closure
-- projection operator language
-- coherence as projection-closure stability under continuation
-
-ΣO remains an important and productive layer of the program, but it is not the deepest one.
-
-### 4. Methodology Layer — Σ₂ Projection-Closure Admissibility
-
-The **Σ₂ framework** is a **representational admissibility methodology**, not a physical theory.
-
-It is used when the question is not “what dynamics generate a state?” but rather:
-
-- is a reduced representation structurally admissible?
-- does closure survive admissible continuation, intervention, or re-projection?
-- does symmetry proliferation force representational refusal?
-
-Σ₂ therefore sits at the methodological level:
-
-- it does **not** introduce ontology,
-- it does **not** generate dynamics,
-- it does **not** replace domain reconstruction.
-
-It classifies when projected representations are admissible relative to richer carrier structure.
-
-### 5. Empirical / Application Layer
-
-Above the previous layers sit domain modules, empirical test repositories, and
-organizational or phenomenological papers.
-
-These do not redefine ontology.
-They show how deeper carrier and projection structures manifest in measurable regimes.
-
-Examples include:
-
-- atomic structure and ionization-energy diagnostics,
-- radiation and coherence phenomenology,
-- magnetism and circulation phenomenology,
-- Bell / CHSH correlations,
-- galactic rotation,
-- information-theoretic and representational reconstruction work,
-- second-order organization and intervention-faithfulness diagnostics.
+- **Reciprocal System lineage** — deepest ontological origin of the program
+- **Compact-fiber / carrier reconstruction** — deepest current reconstruction line
+- **Σ-Order theory (ΣO)** — post-projection / reduced projection architecture
+- **Dual-Frame** — retained where specifically referring to T/S projection structure
+- **Σ₂** — admissibility/refusal methodology operating on projected representation
 
 ---
 
-## Representative Research Threads
+## Program Layers
 
-### Foundational Reciprocal-System / Compact-Fiber Line
+### Reciprocal System lineage
+The deepest starting point of the program is the motion-first insight associated with
+Larson’s **Reciprocal System of Theory**.
 
-- ✅ **compact-fiber-admissibility**  
-  https://github.com/arwells-research/compact-fiber-admissibility  
-  Necessity of the compact local admissibility carrier
+### Compact-fiber / carrier reconstruction
+This is currently the program’s deepest stable accomplishment and its main theoretical center of gravity.
 
-- ✅ **compact-fiber-atomic-structure**  
-  https://github.com/arwells-research/compact-fiber-atomic-structure  
-  Atomic screening classification from the compact fiber
+### Σ-Order / Dual-Frame
+This is the reduced projection layer of the program: structurally informative and productive,
+but downstream of the deeper carrier level.
 
-- ✅ **compact-fiber-quantum-gravity**  
-  https://github.com/arwells-research/compact-fiber-quantum-gravity  
-  Effective quantum and gravitational structure from the compact fiber
+### Σ₂
+This is the projection-closure admissibility methodology. It is not a physical theory and does
+not generate dynamics.
 
-### Compact-Fiber Domain Application
+### Domain and empirical repositories
+These show how the deeper carrier and projection layers manifest in measurable regimes.
 
-- ✅ **compact-fiber-galactic-rotation**  
-  https://github.com/arwells-research/compact-fiber-galactic-rotation  
-  Compact-fiber application to galactic rotation
+---
 
-### Projection / Representational Reconstruction
+## Representative Repository Groups
 
-- ✅ **motion-first-quantum-kinematics**  
-  https://github.com/arwells-research/motion-first-quantum-kinematics  
-  Hilbert-space reconstruction from motion-history distinguishability
+### Foundational compact-fiber line
+- [`compact-fiber-admissibility`](https://github.com/arwells-research/compact-fiber-admissibility)
+- [`compact-fiber-atomic-structure`](https://github.com/arwells-research/compact-fiber-atomic-structure)
+- [`compact-fiber-quantum-gravity`](https://github.com/arwells-research/compact-fiber-quantum-gravity)
 
-- ✅ **symmetry-induced-complexification**  
-  https://github.com/arwells-research/symmetry-induced-complexification  
-  Canonical emergence of complex Hilbert structure from cyclic distinguishability symmetry
+### Compact-fiber domain application
+- [`compact-fiber-galactic-rotation`](https://github.com/arwells-research/compact-fiber-galactic-rotation)
 
-- ✅ **dual-frame-information-theory**  
-  https://github.com/arwells-research/dual-frame-information-theory  
-  Dual-frame entropy and representation limits
-
-### Domain and Empirical Repositories
-
-- ✅ **gor-caf**  
-  https://github.com/arwells-research/gor-caf  
-  Ionization-energy residual structure validation
-
-- ✅ **dft-radiation**  
-  https://github.com/arwells-research/dft-radiation  
-  Constraint-complete radiation phenomenology framework
-
-- ✅ **dft-magnetism**  
-  https://github.com/arwells-research/dft-magnetism  
-  Constraint-complete magnetism and circulation framework
-
-- ✅ **hom-phase-diffusion**  
-  https://github.com/arwells-research/hom-phase-diffusion  
-  Coherence breakdown and recovery diagnostics
-
-- ✅ **chsh-joint-phase**  
-  https://github.com/arwells-research/chsh-joint-phase  
-  Joint phase dynamics and Bell-CHSH validation
-
-### Σ₂ and Admissibility Diagnostics
-
-- ✅ **second-order-constraint-geometry**  
-  https://github.com/arwells-research/second-order-constraint-geometry  
-  Σ₂ axioms and second-order organization diagnostics
-
-- ✅ **unfaithful-cut-foundations**  
-  https://github.com/arwells-research/unfaithful-cut-foundations  
-  Intervention admissibility and structural adequacy
-
-- ✅ **intervention-faithfulness**  
-  https://github.com/arwells-research/intervention-faithfulness  
-  Domain-agnostic Σ₂ practitioner tool
+### Σ₂ and admissibility diagnostics
+- [`second-order-constraint-geometry`](https://github.com/arwells-research/second-order-constraint-geometry)
+- [`unfaithful-cut-foundations`](https://github.com/arwells-research/unfaithful-cut-foundations)
+- [`intervention-faithfulness`](https://github.com/arwells-research/intervention-faithfulness)
 
 ---
 
@@ -244,24 +117,6 @@ See the central hub repository for current verification and reproducibility guid
 
 ---
 
-## Scope
-
-This organization spans multiple theoretical and empirical domains, including:
-
-- atomic physics
-- nuclear decay
-- quantum optics
-- astrophysical kinematics
-- vacuum geometry
-- quantum foundations
-- radiation phenomenology
-- admissibility diagnostics
-- information and representational reconstruction
-
-These repositories emphasize **constraint discovery, admissibility structure, and falsifiable organization** rather than phenomenological curve fitting or simulation-first modeling.
-
----
-
 ## Getting Started
 
 **New readers**
@@ -278,14 +133,6 @@ Use the central hub for verification standards, reading order, and repository re
 **Practitioners**
 
 Σ₂ admissibility diagnostics are available in standalone tools and methods repositories.
-
----
-
-## Where to Find More
-
-**Primary documentation:** sigma-order-core  
-**Pinned repositories:** organization main page  
-**Verification standards:** `VERIFICATION_PRINCIPLES.md` in the central hub  
 
 ---
 
