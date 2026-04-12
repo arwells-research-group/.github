@@ -2,13 +2,13 @@
 
 The Dual-Frame Research Group develops a **layered research program in the Reciprocal System lineage**.
 
-The current **theoretical center of gravity** of the program is the recovery of **local admissibility carrier structure**
+The current **theoretical center of gravity** of the program is the recovery of **compact local carrier structure**
 from Larson’s motion-first postulates, especially in the **compact-fiber** line of work.
 
 Other parts of the program are retained as distinct but connected layers:
 
 - **Reciprocal System lineage** — motion-first ontological starting point
-- **Compact-fiber / carrier reconstruction** — deepest current reconstruction line and central accomplishment
+- **Compact-fiber reconstruction** — deepest current reconstruction line and central accomplishment
 - **Σ-Order / Dual-Frame** — reduced projection architecture preserving structural residue beyond standard QM
 - **Σ₂ framework** — projection-closure admissibility methodology
 - **Domain modules and empirical repositories** — measurable and application-facing consequences
@@ -24,20 +24,15 @@ These are not unrelated theories. They are different layers of one developmental
 
 ## Start Here
 
-The main entry point for the research program is:
+The recommended public entry point for new readers is:
 
-- **[Reciprocal-System Research Program Hub](https://github.com/arwells-research-group/sigma-order-core)**
+- **[rst-compact-fiber](https://github.com/arwells-research-group/rst-compact-fiber)**  
+  Compact-fiber line: foundational carrier framework, foundational papers, and direct compact-fiber-derived applications
 
-Start there for:
+For the broader repository map and later-layer materials, see:
 
-- program orientation
-- lineage and terminology
-- canonical reading order
-- foundational compact-fiber papers
-- Σ-Order / Dual-Frame projection architecture
-- Σ₂ methodology
-- verification and falsifiability standards
-- domain repositories and empirical applications
+- **[sigma-order-core](https://github.com/arwells-research-group/sigma-order-core)**  
+  Broader program hub: orientation, terminology, reading order, Σ-Order / Dual-Frame projection architecture, Σ₂ methodology, and repository map
 
 ---
 
@@ -53,7 +48,7 @@ However, the broader research program is not exhausted by ΣO.
 ### Current terminology
 
 - **Reciprocal System lineage** — deepest ontological origin of the program
-- **Compact-fiber / carrier reconstruction** — deepest current reconstruction line
+- **Compact-fiber reconstruction** — deepest current reconstruction line
 - **Σ-Order theory (ΣO)** — post-projection / reduced projection architecture
 - **Dual-Frame** — retained where specifically referring to T/S projection structure
 - **Σ₂** — admissibility/refusal methodology operating on projected representation
@@ -66,7 +61,7 @@ However, the broader research program is not exhausted by ΣO.
 The deepest starting point of the program is the motion-first insight associated with
 Larson’s **Reciprocal System of Theory**.
 
-### Compact-fiber / carrier reconstruction
+### Compact-fiber reconstruction
 This is currently the program’s deepest stable accomplishment and its main theoretical center of gravity.
 
 ### Σ-Order / Dual-Frame
@@ -84,13 +79,15 @@ These show how the deeper carrier and projection layers manifest in measurable r
 
 ## Representative Repository Groups
 
-### Foundational compact-fiber line
+### Compact-fiber line
+- [`rst-compact-fiber`](https://github.com/arwells-research-group/rst-compact-fiber)
 - [`compact-fiber-admissibility`](https://github.com/arwells-research/compact-fiber-admissibility)
 - [`compact-fiber-atomic-structure`](https://github.com/arwells-research/compact-fiber-atomic-structure)
 - [`compact-fiber-quantum-gravity`](https://github.com/arwells-research/compact-fiber-quantum-gravity)
-
-### Compact-fiber domain application
 - [`compact-fiber-galactic-rotation`](https://github.com/arwells-research/compact-fiber-galactic-rotation)
+
+### Broader program hub
+- [`sigma-order-core`](https://github.com/arwells-research-group/sigma-order-core)
 
 ### Σ₂ and admissibility diagnostics
 - [`second-order-constraint-geometry`](https://github.com/arwells-research/second-order-constraint-geometry)
@@ -121,14 +118,14 @@ See the central hub repository for current verification and reproducibility guid
 
 **New readers**
 
-1. Start with the central hub repository  
+1. Start with `sigma-order-core` for the broader program map  
 2. Read the Reciprocal System orientation and canonical reading order  
-3. Follow either the compact-fiber line, the ΣO projection line, or the Σ₂ methodology line  
-4. Then move outward into domain repositories
+3. Go to `rst-compact-fiber` for the compact-fiber line  
+4. Then move outward into papers, diagnostics, and domain repositories
 
 **Researchers**
 
-Use the central hub for verification standards, reading order, and repository relationships.
+Use `rst-compact-fiber` for the carrier-level line and `sigma-order-core` for broader repository relationships and verification standards.
 
 **Practitioners**
 
